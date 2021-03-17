@@ -22,7 +22,7 @@ public class towerofhanoi{
 
         if(arra.size()==1){
 
-
+//
         }
 
         int a=arra.remove()
