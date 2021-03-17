@@ -18,6 +18,7 @@ public class bubble_sort{
                 }
             }
         }
+        32
         //end
         print(arr);
     }
