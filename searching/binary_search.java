@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class binary_search{
     public static Scanner scn=new Scanner(System.in);
     public static void main(String[]args){
-        
+
         int[]arr={3,6,8,12,14,19,20,23,25,27};
         int no=12;
         int l=0;
@@ -18,6 +18,6 @@ public class binary_search{
             else
             l=mid+1;
         }
-
+//
     }
 }
